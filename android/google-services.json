@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "826281969428",
+    "project_id": "mailapp2-561d0",
+    "storage_bucket": "mailapp2-561d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826281969428:android:d94475461bac258bc2e401",
+        "android_client_info": {
+          "package_name": "cz.johnslovakia.mail_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826281969428-j1omq03imm174iuj0a2mp6t6q21clrel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.johnslovakia.mail_app2",
+            "certificate_hash": "446ebff038c5f196578d6e352d5384062f800eb1"
+          }
+        },
+        {
+          "client_id": "826281969428-ujnpdroc4q283iflc8574qer0alae6be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6jv0TGXWmmjNjUrNU9O6x5n1W3Lgw24U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826281969428-ujnpdroc4q283iflc8574qer0alae6be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
